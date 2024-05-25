@@ -134,7 +134,7 @@ Shader "Unlit/PanoramicSphereShader"
    - UNITY_INITIALIZE_OUTPUT(v2f, o);
    - UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);
 
-上記1～3の手順を踏んだシェーダー全体のスクリプトは次のようになります．なお，今回新たに追記した箇所にはコメントアウトでnew addedと記してあります．
+上記1～3の手順を踏んだシェーダー全体のスクリプトは次のようになります．なお，今回新たに追記した箇所にはコメントアウトで**new added**と記してあります．
 ```
 Shader "Unlit/BinocularPanoramicSphereShader"
 {
