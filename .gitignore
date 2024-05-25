@@ -1,0 +1,8 @@
+Library/
+Logs/
+Obj/
+Build/
+Builds/
+Temp/
+*.apk
+*.unitypackage
