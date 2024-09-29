@@ -1,0 +1,7 @@
+# Ignore temp files, build files, and other generated files
+[Ll]ibrary/
+[Ll]ogs/
+[Oo]bj/
+[Bb]uild/
+[Tt]emp/
+*.apk
